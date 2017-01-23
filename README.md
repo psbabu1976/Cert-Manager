@@ -1,7 +1,7 @@
 # Certificate Manager - Framework Ver # 1.0
   (Developed using Angular 2.0 and Angular-CLI 1.0 Frameworks)
   
- You nedd NodeJS, NPM & Angular-CLI to run this package
+ You nedd NodeJS >=4 , NPM >=3.10 & Angular-CLI>=1.0 to run this package
  Follow these steps to get it up and running..!
  
   1. Download the repository to your system
